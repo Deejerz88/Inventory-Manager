@@ -25,10 +25,6 @@ To use this appliction:
   1. Start the server with "npm start"
   2. Send API calls to the respective endpoints (found in routes directory) to interact with the database.
 
-## Video
-
-[Example Video](https://www.loom.com/share/8e7d97da78644b40b2f4f44e23f3d8f1 "Example Video")
-
 ## Questions
 
 [My GitHub Profile](https://github.com/Deejerz88)
